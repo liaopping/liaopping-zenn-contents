@@ -1,9 +1,9 @@
 ---
-title: "RESTとREST APIについて簡単にまとめてみた"
+title: "【初学者的まとめ】REST APIとは"
 emoji: "🍣"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["REST", "RESTAPI"]
-published: false
+topics: ["REST", "RESTAPI", "初学者"]
+published: true
 ---
 
 # REST APIとは
