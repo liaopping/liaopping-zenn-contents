@@ -8,8 +8,8 @@ published: true
 
 # 経緯
 [【初心者向け超入門】MacでFlutterの環境構築（iOS/Androidアプリ開発,プログラミング）](https://youtu.be/kpvVENfDCRc)
-上記動画に従って環境構築を行っていたところ以下の箇所(iPhone 12 Pro ~の箇所)
-= Flutter Device Selectionでiosシミュレーターを選択できない問題が発生。
+上記動画に従って環境構築を行っていたところ以下の箇所(iPhone 12 Pro ~)が"<no devices>"となり、
+Flutter Device Selectionでiosシミュレーターを選択できない問題が発生。
 Androidデバイスは選択できるのに。。。
 ![](https://storage.googleapis.com/zenn-user-upload/kj7unu41jwsj9efl2lchaghkopxw)
 ![](https://storage.googleapis.com/zenn-user-upload/m5hclg53xihw74kjb362jfhh50qd)
