@@ -37,7 +37,7 @@ $ anyenv init
 
 eval "$(anyenv init -)"
 ```
-~/.zshrcにコマンドを追記すれば、自動で読み込まれると言われたのでやってみる。^[$ echo 追記する文字列 >> ファイル名]^[$ eval 'hoge hoge' 指定した文字列を連結してシェルに実行させる]
+~/.zshrcにコマンドを追記すれば自動で読み込まれる、と言っているのでやってみる。^[$ echo 追記する文字列 >> ファイル名]^[$ eval 'hoge hoge' 指定した文字列を連結してシェルに実行させる]
 ```shell-session
 $ echo 'eval "$(anyenv init -)"' >> ~/.zshrc
 ```
@@ -57,7 +57,7 @@ ANYENV_DEFINITION_ROOT(/Users/xxxx/.config/anyenv/anyenv-install) doesn't exist.
 とあるため、途中の質問にはyesで回答。
 ```shell-session
 $ anyenv install --init
-Manifest directory doesn't exist: /Users/ryohei/.config/anyenv/anyenv-install
+Manifest directory doesn't exist: /Users/xxxx/.config/anyenv/anyenv-install
 Do you want to checkout ? [y/N]: y
 # 中略
 Completed!
